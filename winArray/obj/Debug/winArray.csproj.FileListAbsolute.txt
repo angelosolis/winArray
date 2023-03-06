@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\winArray\winArray\bin\Debug\winArray.exe.config
+C:\Users\Admin\source\repos\winArray\winArray\bin\Debug\winArray.exe
+C:\Users\Admin\source\repos\winArray\winArray\bin\Debug\winArray.pdb
+C:\Users\Admin\source\repos\winArray\winArray\obj\Debug\winArray.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\winArray\winArray\obj\Debug\winArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\winArray\winArray\obj\Debug\winArray.Form1.resources
+C:\Users\Admin\source\repos\winArray\winArray\obj\Debug\winArray.Properties.Resources.resources
+C:\Users\Admin\source\repos\winArray\winArray\obj\Debug\winArray.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\winArray\winArray\obj\Debug\winArray.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\winArray\winArray\obj\Debug\winArray.exe
+C:\Users\Admin\source\repos\winArray\winArray\obj\Debug\winArray.pdb
